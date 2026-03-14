@@ -232,5 +232,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScoreOnDeath
   scoreTextObjectName: ScoreText
-  requiredObjectName: 
   points: 10
